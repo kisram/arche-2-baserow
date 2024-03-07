@@ -1,0 +1,15 @@
+@prefix arche: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+
+<https://id.acdh.oeaw.ac.at/your-collection> a arche:Collection .
+
+<https://id.acdh.oeaw.ac.at/your-metadata> a arche:Metadata .
+
+<https://id.acdh.oeaw.ac.at/your-project> a arche:Project ;
+    arche:hasTitle "Grocers of Istanbul"@en .
+
+<https://id.acdh.oeaw.ac.at/your-publication> a arche:Publication .
+
+<https://id.acdh.oeaw.ac.at/your-resource> a arche:Resource .
+
+<https://id.acdh.oeaw.ac.at/your-top-collection> a arche:TopCollection .
+
